@@ -21,3 +21,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Application Screenshots
+
+<img width="1440" alt="Top Headings" src="https://user-images.githubusercontent.com/33734672/161411938-34548b46-f46f-440c-a292-3bb152901433.png">
+<img width="1440" alt="Technology" src="https://user-images.githubusercontent.com/33734672/161411942-976ac88b-8cc7-474d-957e-96e62d1a083a.png">
+<img width="1440" alt="Sports" src="https://user-images.githubusercontent.com/33734672/161411943-61f8dac3-ad71-4e26-9030-15adbf36d57f.png">
+<img width="1440" alt="Science" src="https://user-images.githubusercontent.com/33734672/161411944-b8559391-5f15-453a-8570-3025bd3f3930.png">
+<img width="1440" alt="Entertainment" src="https://user-images.githubusercontent.com/33734672/161411945-6aad64e2-ebbf-4422-8f53-fb23affdc5a7.png">
+<img width="1440" alt="Health" src="https://user-images.githubusercontent.com/33734672/161411946-f52acd31-c18f-4e6e-9056-077d7d78e262.png">
+<img width="1440" alt="Business" src="https://user-images.githubusercontent.com/33734672/161411947-a315bd3c-30dd-44ae-91bf-4e63d42976e5.png">
